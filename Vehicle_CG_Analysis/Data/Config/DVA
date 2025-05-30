@@ -1,0 +1,20 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-DVA 4.0
+nDialogQu = 10
+Qu.0.Name = Car.v
+Qu.0.Mode = - value
+Qu.0.Count = 1
+Qu.0.Unit = m/s
+Qu.1.Name = Vhcl.PitchAcc
+Qu.1.Mode = - value
+Qu.1.Count = 1
+Qu.1.Unit = rad/s²
+Qu.2.Name = Vhcl.RollAcc
+Qu.2.Mode = - value
+Qu.2.Count = 1
+Qu.2.Unit = rad/s²
+Qu.3.Name = Vhcl.Steer.Acc
+Qu.3.Mode = - value
+Qu.3.Count = 1
+Qu.3.Unit = rad/s²
+nQu = 4

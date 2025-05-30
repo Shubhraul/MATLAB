@@ -1,0 +1,123 @@
+APPLICATION	CarMaker 7.1.2 - Car_Generic #321 (win64-7.1.2)
+COMPILED	fh@obelix.ipg 2019-01-28 10:41:51
+FIRST_INIT	(internal default used)	2024-02-18 00:01:47
+TIME	0.000
+SIM_END			0s	0m
+IDLE	00:01:48
+SIM_START	unknown	2024-02-18 00:01:49
+TIME	0.000
+SIMULATE	unknown
+
+TIME	177.364
+SIM_END		unknown	177.355s	2402.59m
+SIM_START	unknown	2024-02-18 00:02:10
+TIME	0.000
+SIMULATE	unknown
+
+TIME	177.364
+SIM_END		unknown	177.355s	2402.59m
+TIME	0.001
+SIM_START	unknown	2024-02-18 00:05:43
+TIME	0.000
+SIMULATE	unknown
+
+TIME	93.921
+SIM_END		unknown	93.912s	2401.81m
+TIME	108.468
+SIM_START	unknown	2024-02-18 00:08:14
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Pitch angle too high (80.08 deg)
+SIM_ABORT	unknown	0.949s	1.20768m
+TIME	4.174
+SIM_START	unknown	2024-02-18 00:08:48
+TIME	0.000
+SIMULATE	unknown
+
+TIME	94.023
+SIM_END		unknown	94.014s	2402.92m
+TIME	101.726
+SIM_START	unknown	2024-02-18 00:10:12
+TIME	0.000
+SIMULATE	unknown
+
+TIME	94.194
+SIM_END		unknown	94.185s	2399.45m
+TIME	96.388
+SIM_START	unknown	2024-02-18 00:10:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	22.680
+ERROR		Roll angle too high (-80.05 deg)
+SIM_ABORT	unknown	22.68s	428.679m
+TIME	26.257
+SIM_START	unknown	2024-02-18 00:11:18
+TIME	0.000
+SIMULATE	unknown
+
+TIME	94.194
+SIM_END		unknown	94.185s	2399.45m
+SIM_START	unknown	2024-02-18 00:11:41
+TIME	0.000
+SIMULATE	unknown
+
+TIME	23.556
+ERROR		Roll angle too high (-80.12 deg)
+SIM_ABORT	unknown	23.556s	458.702m
+TIME	27.195
+SIM_START	unknown	2024-02-18 00:12:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	25.060
+ERROR		Roll angle too high (-80.15 deg)
+SIM_ABORT	unknown	25.06s	498.999m
+SIM_START	unknown	2024-02-18 00:12:33
+TIME	0.000
+SIMULATE	unknown
+
+TIME	94.194
+SIM_END		unknown	94.185s	2399.45m
+SIM_START	unknown	2024-02-18 00:12:52
+TIME	0.000
+SIMULATE	unknown
+
+TIME	25.466
+ERROR		Roll angle too high (-80.06 deg)
+SIM_ABORT	unknown	25.466s	510.133m
+TIME	30.125
+SIM_START	unknown	2024-02-18 00:13:41
+TIME	0.000
+SIMULATE	unknown
+
+TIME	94.207
+SIM_END		unknown	94.198s	2399.4m
+SIM_START	unknown	2024-02-18 00:14:05
+TIME	0.000
+SIMULATE	unknown
+
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 0.428000, ErrInd = 102). (id=200)
+ERROR		Roll angle too high (-80.10 deg)
+SIM_ABORT	unknown	0.756s	1.74736m
+TIME	2.399
+SIM_START	unknown	2024-02-18 00:14:23
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Roll angle too high (-80.19 deg)
+SIM_ABORT	unknown	1.202s	0.887278m
+TIME	2.355
+SIM_START	unknown	2024-02-18 00:14:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	93.922
+SIM_END		unknown	93.913s	2402.06m
+SIM_START	unknown	2024-02-18 00:14:54
+TIME	0.000
+SIMULATE	unknown
+
+TIME	94.557
+SIM_END		unknown	94.548s	2402.47m
